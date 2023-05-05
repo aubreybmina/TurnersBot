@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/aubreybmina/TurnersBot.git">
-    <img src="src/images/turnerscarslogo.svg" alt="Logo" width="80">
+    <img src="src/images/turnerscarslogo.png" alt="Logo" width="80">
   </a>
 
 <h3 align="center">Turners Cars</h3>
